@@ -2,3 +2,26 @@
 body{
     background-color: rgb(73, 73, 158);
 }
+h1{
+    color:aquamarine;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+}
+h3{
+    color:rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+ p{
+     color:black;
+     font-family: Arial, Helvetica, sans-serif;
+     font-style: normal;
+ }
+ul{
+    color: palevioletred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
